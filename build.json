@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "commit": "dd3e083f8b345bd9792f7c6d588573dfdad25406",
-  "data_as_of": "2026-10-21T14:04:38+08:00",
-  "action_count": 46,
-  "index_bytes": 61144,
-  "index_sha256": "a08f55938189642148abbfce39102fb0d4223329a003de327fdfbeb7bd5e5cb0"
+  "commit": "c8cdb5c4ebfafe71f476af9c40c5d22e35e8b7bb",
+  "data_as_of": "2026-10-28T23:41:09+08:00",
+  "action_count": 53,
+  "index_bytes": 68739,
+  "index_sha256": "a76d5b861c5020fd47ebb93bb10a51f0c90702e037259b522076c4eeb360a30f"
 }
